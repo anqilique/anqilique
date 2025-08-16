@@ -5,7 +5,7 @@
 
 - 👩‍💻 Working on [UoA GDG's Sem Game Jam](https://github.com/anqilique/GDGJam2-2025)
 
-- 🌱 Currently learning **Python, Godot, and Web Dev**
+- 🌱 Currently learning **Python, Godot, and random things that pique my interest**
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anqilique&theme=dark" alt="anqilique" /></p>
