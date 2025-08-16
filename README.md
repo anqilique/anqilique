@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Anqilique</h1>
 
+<h3 align="center">Uni student 📚 studying computer science 👩‍💻</h3>
+<br>
+
 - 👩‍💻 Working on [UoA GDG's Sem Game Jam](https://github.com/anqilique/GDGJam2-2025)
 
 - 🌱 Currently learning **Python, Godot, and Web Dev**
