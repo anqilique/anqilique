@@ -3,11 +3,13 @@
 <h3 align="center">Uni student 📚 studying computer science 👩‍💻</h3>
 <br>
 
-- 👩‍💻 Working on [UoA GDG's Sem Game Jam](https://github.com/anqilique/GDGJam2-2025)
+- 👩‍💻 Working on [UoA GDG's Sem 2 Game Jam](https://github.com/anqilique/GDGJam2-2025)
 
 - 🌱 Currently learning **Python, Godot, and random things that pique my interest**
 
 - 🎮 Trying to make half-baked games
+
+- 🎨 I also draw sometimes
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anqilique&theme=dark" alt="anqilique" /></p>
