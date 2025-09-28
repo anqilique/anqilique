@@ -7,7 +7,7 @@
 
 - 📌 Recently finished [UoA GDG's Sem 2 Game Jam](https://github.com/anqilique/GDGJam2-2025)
 
-- 🌱 Currently learning Python, Godot, and computer science fundamentals
+- 🌱 Currently learning Python, Godot, and CS fundamentals
 
 - 📦 Unfinished side projects: 2 (Manageable)
 
