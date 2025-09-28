@@ -26,7 +26,7 @@
 [![Using](https://skillicons.dev/icons?i=godot,python,html,css,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 <b>Learning / Want to Learn</b><br>
-[![Learning](https://skillicons.dev/icons?i=blender,js,react,unity&theme=dark&perline=10)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=blender,unity,js,react&theme=dark&perline=10)](https://skillicons.dev)
 
 <b>GitHub Stats</b>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anqilique&theme=dark" alt="anqilique" /></p>
