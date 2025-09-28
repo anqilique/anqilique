@@ -9,6 +9,8 @@
 
 - 🌱 Currently learning Python, Godot, and computer science fundamentals
 
+- 💡 Unfinished side projects: 2. Manageable.
+
 - 🎮 Trying to make half-baked games
 
 - 🎨 I also draw sometimes
