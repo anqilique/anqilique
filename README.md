@@ -3,7 +3,7 @@
 <h3 align="center">Uni student 📚 studying computer science 👩‍💻</h3>
 <br>
 
-- 👩‍💻 Working on a [text-based fishing game](https://anqilique.github.io/Adrift/#latest) 🐟🎣
+- 👩‍💻 Working on a [text-based fishing game](https://github.com/anqilique/Adrift) 🐟🎣
 
 - 📌 Recently finished [UoA GDG's Sem 2 Game Jam](https://github.com/anqilique/GDGJam2-2025)
 
