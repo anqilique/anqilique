@@ -17,16 +17,16 @@
 
 <br>
 
-<b>Socials/Platforms</b><br>
-[![Socials](https://skillicons.dev/icons?i=discord,instagram,github,linkedin&theme=dark&perline=10)](https://skillicons.dev)
+<b>Socials / Platforms</b><br>
+[![Socials](https://skillicons.dev/icons?i=discord,instagram,github&theme=dark&perline=10)](https://skillicons.dev)
 
 <sup>👆 These don't link anywhere yet. I'll do it later...</sup>
 
 <b>Frequently Used</b><br>
-[![Using](https://skillicons.dev/icons?i=godot,python,html,css,vscode,md&theme=dark&perline=10)](https://skillicons.dev)
+[![Using](https://skillicons.dev/icons?i=godot,python,html,css,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
-<b>Learning</b><br>
-[![Learning](https://skillicons.dev/icons?i=blender,js&theme=dark&perline=10)](https://skillicons.dev)
+<b>Learning / Want to Learn</b><br>
+[![Learning](https://skillicons.dev/icons?i=blender,js,react,unity&theme=dark&perline=10)](https://skillicons.dev)
 
 <b>GitHub Stats</b>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anqilique&theme=dark" alt="anqilique" /></p>
