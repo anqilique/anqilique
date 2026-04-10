@@ -3,4 +3,4 @@
 
 <br>
 
-_This file will be revamped soon. Have a look around?_
+<p align="center"><i>This file will be revamped soon, so have a look around?</i></p>
