@@ -3,7 +3,7 @@
 
 ### About Me
 
-  🚀 I’m currently working on the [Kiwi Asian Club Website](https://github.com/UoaWDCC/kac) with UoA WDCC.
+  🚀 I’m currently working on the [Kiwi Asian Club Website](https://github.com/UoaWDCC/kac) with [UoA WDCC](https://github.com/UoaWDCC).
   
   ✨ I recently finished revamping [my personal website](https://anqilique.github.io/).
   
