@@ -18,3 +18,12 @@
 ### Learning / Want to Learn
 
   [![Learning](https://skillicons.dev/icons?i=blender,unity,java,r,mongodb,expressjs,react,nodejs,typescript,vite,postman,redis&theme=dark&perline=4)](https://skillicons.dev)
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anqilique/anqilique/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anqilique/anqilique/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anqilique/anqilique/output/github-contribution-grid-snake.svg">
+</picture>
+
+- Generate your own snake game with [Platane/snk](https://github.com/Platane/snk) 🐍
