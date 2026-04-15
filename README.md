@@ -3,13 +3,13 @@
 
 ### About Me
 
-  🚀 I’m currently working on the [Kiwi Asian Club Website](https://github.com/UoaWDCC/kac) with [UoA WDCC](https://github.com/UoaWDCC).
+  🚀 Working on the [Kiwi Asian Club Website](https://github.com/UoaWDCC/kac) with [UoA WDCC](https://github.com/UoaWDCC).
   
-  ✨ I recently finished revamping [my personal website](https://anqilique.github.io/).
+  ✨ Recently finished revamping [my personal website](https://anqilique.github.io/).
   
-  🌱 I’m currently learning the MERN stack, Java, and R.
+  🌱 Currently learning the MERN stack, Java, and R.
   
-  📸 I also find game development and photography interesting.
+  📸 Also interested in game development and photography.
 
 ### Frequently Used
 
