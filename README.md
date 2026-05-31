@@ -23,7 +23,7 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anqilique/anqilique/output/github-contribution-grid-snake-dark.svg">
