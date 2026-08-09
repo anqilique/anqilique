@@ -13,6 +13,8 @@
   
   📸 Also interested in game development and photography.
 
+  🎶 ファイトソング (Fight Song) - [Eve](https://www.youtube.com/watch?v=2eOg5DoYuwU)
+
 ### Frequently Used
 
   [![Using](https://skillicons.dev/icons?i=html,css,javascript,python,godot,vscode,github,git,markdown&theme=dark)](https://skillicons.dev)
