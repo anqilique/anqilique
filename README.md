@@ -15,11 +15,11 @@
 
 ### Frequently Used
 
-  [![Using](https://skillicons.dev/icons?i=html,css,javascript,python,godot,vscode,github,git,latex,markdown&theme=dark&perline=4)](https://skillicons.dev)
+  [![Using](https://skillicons.dev/icons?i=html,css,javascript,python,godot,vscode,github,git,markdown&theme=dark)](https://skillicons.dev)
 
 ### Learning / Want to Learn
 
-  [![Learning](https://skillicons.dev/icons?i=blender,unity,java,r,mongodb,expressjs,react,nodejs,typescript,vite,postman,redis&theme=dark&perline=4)](https://skillicons.dev)
+  [![Learning](https://skillicons.dev/icons?i=blender,unity,java,r,mongodb,expressjs,react,nodejs,typescript&theme=dark)](https://skillicons.dev)
 
 <br>
 
